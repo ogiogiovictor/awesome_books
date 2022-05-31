@@ -9,9 +9,9 @@ In this project, I build a basic website that allows users to add/remove books f
 ## Built With
 
 - HTML
-- CSS (Flexbox | Grid System)
+- CSS (Flexbox)
 - Linters: Webhint, Stylelint & ESLint
-- Javascript
+- Javascript ES6 Syntax with Import and Export module
 
 ## Getting Started
 
