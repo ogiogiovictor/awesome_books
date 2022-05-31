@@ -1,72 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome-Books
 
-> Description the project.
-
+In this project, I build a basic website that allows users to add/remove books from a list. The functionality was done using JS.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS (Flexbox | Grid System)
+- Linters: Webhint, Stylelint & ESLint
+- Javascript
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follw these simple example steps:
 
+```
+    - Select the link with the code on the https code table in the repo
+    - Open a Terminal and write the command: git clone https://github.com/ogiogiovictor/awesome_books.git
+    - $ cd into the directory
+    - $ Open the index.html file in a browser.
+```
+To run this project locally on your computer clone using "git clone" command with this repo url.
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+# Website URL - Github Pages
+The Webpage is now deployed using github pages. See url link below:
+[live demo]( https://ogiogiovictor.github.io/awesome_books/)
 
 ## Authors
+👤 **Ogiogio Victor**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [ogiogiovictor](https://github.com/ogiogiovictor) 
+- LinkedIn: [Ogiogio Victor](https://www.linkedin.com/in/ogiogio-victor-a096a0181/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
