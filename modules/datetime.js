@@ -1,5 +1,4 @@
-//import { DateTime } from '../node_modules/luxon/src/luxon.js';
-import { DateTime } from './luxon.min.js';
+import { DateTime } from '../node_modules/luxon/src/luxon.js';
 
 const twoDigits = (num) => {
   if (num < 10) return `0${num}`;
