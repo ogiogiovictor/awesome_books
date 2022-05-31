@@ -17,7 +17,7 @@ To get a local copy up and running follw these simple example steps:
 
 ```
     - Select the link with the code on the https code table in the repo
-    - Open a Terminal and write the command: git clone https://github.com/ogiogiovictor/awesome_books.git
+    - Open a Terminal and write the command: git clone https://github.com/ogiogiovictor/awesome_books
     - $ cd into the directory
     - $ Open the index.html file in a browser.
 ```
