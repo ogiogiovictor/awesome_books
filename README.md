@@ -16,12 +16,12 @@ In this project, I build a basic website that allows users to add/remove books f
 To get a local copy up and running follw these simple example steps:
 
 ```
-    - Select the link with the code on the https code table in the repo
-    - Open a Terminal and write the command: git clone https://github.com/ogiogiovictor/awesome_books
-    - $ cd into the directory
-    - $ Open the index.html file in a browser.
+    - Clone the repo with git clone using the link below
+    - git clone https://github.com/ogiogiovictor/awesome_books
+    - $ Once the report has been cloned change the project directory by cd into the directory
+    - $ cd into the awesome_book from your teminal.
 ```
-To run this project locally on your computer clone using "git clone" command with this repo url.
+Important: Once you have downloaded the code, run npm install, to install all dependencies of the project for it to work properly.
 
 # Website URL - Github Pages
 The Webpage is now deployed using github pages. See url link below:
