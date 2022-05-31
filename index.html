@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <script type="module" src="index.js"></script>
+  <title>Awesome Books</title>
+</head>
+<body>
+
+  <header>
+    
+    <nav class="navbar">
+
+      <img src="images/noun-book-1069597.png" alt="Logo">
+
+      <ul class="nav-menu">
+        <li class="nav-item">
+          <a href="#" class="nav-link" id="a-book-list">Book List</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link" id="a-add-book">Add Book</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link" id="a-contact">Contact</a>
+        </li> 
+      </ul>
+
+    </nav>
+    <div class="mainTime">Loading date...</div>
+  </header>
+ 
+  <main>
+
+    
+    <section  id="book-list-section">
+      <h1>All awesome books</h1>
+
+      <table  id="books-table">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody id="list">
+        
+        </tbody>
+      </table>
+    </section>
+    
+    <section class="active" id="form-section">
+      <h2>Add a new book</h2>
+
+      <form id="book-form">
+        <input type="text" placeholder="Title" id="title" name="title" required>
+        <input type="text" placeholder="Author" id="author" name="author" required>
+        <button type="submit" value="Add Book" id="sumbit-btn">Add</button>
+      </form>
+    </section>
+
+      <section id="contact-section">
+        <h2>Contact information</h2>
+        <p>Do you have any questions or you just want to say "Hello"?<br>You can reach out to us!</p>
+        <ul>
+          <li>
+            Our email: ogiogiovictor@gmail.com
+          </li>
+          <li>
+            Phone number: +2347038807891
+          </li>
+          <li>
+            Our adrress: 22 Olajide Agbo Street, Lagos
+          </li>
+        </ul>
+      </section>
+  </main>
+    
+    <footer>
+      <p>
+        Copyright: Ogiogio Victor
+      </p>
+    </footer>
+
+     
+</body>
+</html>
