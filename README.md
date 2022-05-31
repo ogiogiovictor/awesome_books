@@ -1,8 +1,10 @@
-![](![image](https://user-images.githubusercontent.com/46789910/171163198-aaa730d6-48ea-4c7d-a433-95252bd4497f.png))
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Awesome-Books
 
 In this project, I build a basic website that allows users to add/remove books from a list. The functionality was done using JS.
+![image](https://user-images.githubusercontent.com/46789910/171163286-aff02714-cd0c-4db0-a53e-737e47ba7836.png)
+
 
 ## Built With
 
