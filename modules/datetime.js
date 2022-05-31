@@ -9,7 +9,6 @@ const twoDigits = (num) => {
 const startTime = () => {
   const now = DateTime.now();
   const showData = `${now.toLocaleString(DateTime.DATE_FULL)} ${now.hour}:${twoDigits(now.minute)}:${twoDigits(now.second)} hrs.`;
-  // document.querySelector('.mainTime').innerHTML = now.toLocaleString(DateTime.DATETIME_MED);
   document.querySelector('.mainTime').innerHTML = showData;
   setInterval(startTime, 1000);
 };

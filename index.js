@@ -27,7 +27,7 @@ document.querySelector('#list').addEventListener('click', (e) => {
 // This is the part that loads the objects
 function init() {
   if (Book.getBooks().length === 0) {
-    list.innerHTML = 'No Book Added Yet';
+    list.innerHTML = '';
   } else {
     Book.getBooks().forEach((book) => Book.displaybooks(book, list));
   }
