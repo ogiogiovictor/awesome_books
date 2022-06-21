@@ -2,7 +2,8 @@
 
 # Awesome-Books
 
-In this project, I build a basic website that allows users to add/remove books from a list. The functionality was done using JS.
+In this project, I build a basic website that allows users to add/remove books from a list. 
+The project used localstorage and classes with modern ES6 javascript functionality.
 ![image](https://user-images.githubusercontent.com/46789910/171163286-aff02714-cd0c-4db0-a53e-737e47ba7836.png)
 
 
